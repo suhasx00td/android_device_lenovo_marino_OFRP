@@ -22,4 +22,4 @@ Front Camera | 8MP
 
 ---
 
-This device tree can be used to build TWRP Recovery for Lenovo K8 Plus
+This device tree can be used to build TWRP/OFRP Recovery for Lenovo K8 Plus
